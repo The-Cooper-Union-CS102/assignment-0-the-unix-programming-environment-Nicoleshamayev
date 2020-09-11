@@ -8,4 +8,5 @@ cat myfile
 cd ..
 cp -r mydir2 mydir3
 find . | sort -r
+chmod +x solution.sh
 
